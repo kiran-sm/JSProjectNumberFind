@@ -4,3 +4,5 @@ git config --global user-email "smkiran.09@gmail.com"
 git add -Add
 git commit -m "intial Commit"
 create a repo...
+git remote add origin https                                    
+git push -u origin main
