@@ -6,6 +6,8 @@
 // document.querySelector(".guess").value=23
 // console.log(document.querySelector(".guess").value);
 
+const funnyTxt = "no major updates"
+
 let secreteNumber = Math.trunc(Math.random()*20)+1;
 let score = 20;
 let highScore = 0;
