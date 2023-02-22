@@ -69,3 +69,16 @@
 // })
 
 // console.log("advanced JS");
+
+const arr = [2,3,6,4,5,6]
+console.log(arr.length);
+let newArr = new Set(arr)
+console.log(newArr);
+// console.log(newArr.length());
+// for(const item of arr)
+// console.log(item,"aa");
+// console.log(arr,"Kiran");
+// // console.log(arr);
+// const [x,y,z,,a] = arr
+// console.log(x,y,z,a );
+
