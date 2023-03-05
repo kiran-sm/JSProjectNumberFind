@@ -70,15 +70,29 @@
 
 // console.log("advanced JS");
 
-const arr = [2,3,6,4,5,6]
-console.log(arr.length);
-let newArr = new Set(arr)
-console.log(newArr);
+// const arr = [2,3,6,4,5,6]
+// for (const star of arr)
+// console.log(star,"q");
+
+// sum = 0
+// for(let i=0; i<arr.length;i++){
+//     sum+=arr[i]
+    // console.log(`${arr[i]} number`);
+    // console.log(sum);
+// }
+// console.log(sum);
+
+// console.log(arr.length);
+// let newArr = new Set(arr)
+// console.log(newArr);
 // console.log(newArr.length());
 // for(const item of arr)
 // console.log(item,"aa");
 // console.log(arr,"Kiran");
-// // console.log(arr);
+// // console.log(arr);≥
 // const [x,y,z,,a] = arr
 // console.log(x,y,z,a );
-
+// let p ="congaro"
+// console.log(p.length)
+// console.log("2",p.slice(2));
+// console.log(`${p[0].toUpperCase()}${p.slice(1,-1)}`);
