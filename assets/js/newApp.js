@@ -8,6 +8,6 @@
 
 // IIFE
 
-(function(){
-    console.log("iifc");
-})()
+// (function(){
+//     console.log("iifc");
+// })()
