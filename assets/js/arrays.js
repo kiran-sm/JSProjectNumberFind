@@ -17,25 +17,30 @@
 // console.log(productName);
 
 const array = [2,3,4,5,6,7]
-newarr = array.map(num)
-function num(elm){
-  return  Math.pow(elm,2)
-}
+// newarr = array.map(num)
+// function num(elm){
+//   return  Math.pow(elm,2)
+// }
 
 
-console.log(newarr);
-newarr2 = array.filter(grt)
-function grt(ell){
-    return ell > 2;
-}
-console.log(newarr2);
+// console.log(newarr);
+// newarr2 = array.filter(grt)
+// function grt(ell){
+//     return ell > 2;
+// }
+// console.log(newarr2);
 
-newarr3 = array.reduce(elm3)
-function elm3(total,num){
-    return total+num
-}
-console.log(newarr3);
-let a=3
-b=4
+// newarr3 = array.reduce(elm3)
+// function elm3(total,num){
+//     return total+num
+// }
+// console.log(newarr3);
+// let a=3
+// b=4
 
-console.log(swap(a,b));
+// console.log(swap(a,b));
+
+let name = ["kiran",2]
+
+name.fill(*,1)
+console.log(name);
